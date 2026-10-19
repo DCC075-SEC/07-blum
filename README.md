@@ -46,12 +46,12 @@ Abra o terminal na pasta onde está o arquivo e rode:
 
 **Windows**
 ```
-python bbs_comentado.py
+python blum.py
 ```
 
 **Linux / Mac**
 ```
-python3 bbs_comentado.py
+python3 blum.py
 ```
 
 Também é possível executar pelo VS Code, clicando em "Run Python File".
